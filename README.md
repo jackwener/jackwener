@@ -1,6 +1,14 @@
 ## 😄 Hi, I'm jackwener
 
-### 💬 other
+### motor
+
+> To be better
+
+### ✨ Label
+
+> `coder` `reader` `thinker`
+
+### 💬 Other
 
 > **Blog:** https://www.yuque.com/jakevin
 >
