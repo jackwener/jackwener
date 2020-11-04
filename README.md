@@ -12,7 +12,7 @@
 
 > **Blog:** https://www.yuque.com/jakevin
 >
-> **GitHub:** https://github.com/jakevin
+> **GitHub:** https://github.com/jackwener
 >
 > **LeetCode:** https://leetcode-cn.com/u/jackwener/
 >
