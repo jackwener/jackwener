@@ -17,3 +17,5 @@
 > **LeetCode:** https://leetcode-cn.com/u/jackwener/
 >
 > **Douban** https://www.douban.com/people/150899820/
+
+[![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)](https://github.com/anuraghazra/github-readme-stats)
