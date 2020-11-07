@@ -6,7 +6,8 @@
 
 ### ✨ Label
 
-> `coder` `reader` `thinker`
+> `coder` `reader` `thinker` [![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 💬 Other
 
@@ -18,4 +19,3 @@
 >
 > **Douban** https://www.douban.com/people/150899820/
 
-[![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)](https://github.com/anuraghazra/github-readme-stats)
