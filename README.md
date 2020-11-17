@@ -18,6 +18,6 @@
 >
 > **Douban** https://www.douban.com/people/150899820/
 
-![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)](https://github.com/anuraghazra/github-readme-stats)
+![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwener&hide=html,css&layout=compact&langs_count=9)
 
