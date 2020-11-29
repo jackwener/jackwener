@@ -1,11 +1,5 @@
 ## 😄 Hi, I'm jackwener
 
-### motor
-
-> To be better
-
-### ✨ Label
-
 > `coder` `reader` `thinker` 
 
 ### 💬 Other
