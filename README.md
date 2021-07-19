@@ -2,7 +2,7 @@
 
 > `coder` `reader` `thinker` 
 
-- I'm Learning English through SLA, and I want to be multi-language learner now.
+- I'm Learning English through SLA now, and I want to be multi-language learner.
 - I'm working in Bytedance RDS.
 - I'm interested in Database and Distributed Systems.
 - Language used: Golang, C++, Java, Python.
