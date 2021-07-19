@@ -2,7 +2,12 @@
 
 > `coder` `reader` `thinker` 
 
-- I'm interested in Golang, C++.
+- I'm Learning English through SLA, and I want to be multi-language learner now.
+- I'm working in Bytedance RDS.
+- I'm interested in Database and Distributed Systems.
+- Language used: Golang, C++, Java, Python.
+- Like and want to participate Open Source. Contributor of the TiDB, Nebula.
+- I enjoy reading books of psychology, literature, sociology, history and ...
 
 ### 💬 Other
 
