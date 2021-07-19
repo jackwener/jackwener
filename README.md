@@ -2,6 +2,8 @@
 
 > `coder` `reader` `thinker` 
 
+- I'm interested in Golang, C++.
+
 ### 💬 Other
 
 > **Blog:** https://www.yuque.com/jakevin
