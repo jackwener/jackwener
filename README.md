@@ -6,7 +6,7 @@
 - I'm working in Bytedance RDS.
 - I'm interested in Database and Distributed Systems.
 - Language used: Golang, C++, Java, Python.
-- Like and want to participate Open Source. Contributor of the TiDB, Nebula.
+- Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
 - I enjoy reading books of psychology, literature, sociology, history and ...
 
 ### 💬 Other
