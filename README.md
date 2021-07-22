@@ -3,7 +3,7 @@
 > `coder` `reader` `thinker` 
 
 - I'm Learning English through SLA now, and I want to be multi-language learner.
-- I'm working in Bytedance RDS.
+- I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
 - I'm interested in Database and Distributed Systems.
 - Language used: Golang, C++, Java, Python.
 - Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
