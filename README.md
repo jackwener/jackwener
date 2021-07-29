@@ -3,8 +3,8 @@
 > `coder` `reader` `thinker` 
 
 - :musical_score: I'm Learning English through SLA now, and I want to be multi-language learner.
-- :spades: I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
-- :spades: I'm interested in Database and Distributed Systems.
+- :crown: I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
+- :beer: I'm interested in Database and Distributed Systems.
 - :fish_cake: Language used: Golang, C++, Java, Python.
 - :rice_cracker: Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
 - :shaved_ice: I enjoy reading books of psychology, literature, sociology, history and ...
