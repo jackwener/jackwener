@@ -2,12 +2,12 @@
 
 > `coder` `reader` `thinker` 
 
-- I'm Learning English through SLA now, and I want to be multi-language learner.
-- I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
-- I'm interested in Database and Distributed Systems.
-- Language used: Golang, C++, Java, Python.
-- Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
-- I enjoy reading books of psychology, literature, sociology, history and ...
+- :musical_score: I'm Learning English through SLA now, and I want to be multi-language learner.
+- :spades: I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
+- :spades: I'm interested in Database and Distributed Systems.
+- :fish_cake: Language used: Golang, C++, Java, Python.
+- :rice_cracker: Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
+- :shaved_ice: I enjoy reading books of psychology, literature, sociology, history and ...
 
 ### 💬 Other
 
