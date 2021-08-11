@@ -6,7 +6,7 @@
 - :crown: I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
 - :beer: I'm interested in Database and Distributed Systems.
 - :fish_cake: Language used: Golang, Java, Python, C++, Rust.
-- :rice_cracker: Like and want to participate Open Source. Contributor of the TiDB, Nebula-Graph.
+- :rice_cracker: Like and want to participate Open Source. Contributor of the TiDB, TiKV, Nebula-Graph.
 - :shaved_ice: I enjoy reading books of psychology, literature, sociology, history and ...
 
 ### 💬 Other
