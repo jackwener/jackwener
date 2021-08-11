@@ -11,7 +11,7 @@
 
 ### 💬 Other
 
-> **Blog:** https://www.yuque.com/jakevin
+> **Twitter:** https://twitter.com/jakevin7
 >
 > **GitHub:** https://github.com/jackwener
 >
