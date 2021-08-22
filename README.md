@@ -9,8 +9,4 @@
 - :rice_cracker: Like and want to participate Open Source. Contributor of the TiDB, TiKV, Nebula-Graph, Datafuse, Chaos-mesh, TDengine.
 - :shaved_ice: I enjoy reading books of psychology, literature, sociology, history and ...
 
-### 💬 Other
-
-> **LeetCode:** https://leetcode-cn.com/u/jackwener/
-
 ![jackwener's github stats](https://github-readme-stats.vercel.app/api?username=jackwener)
