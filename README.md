@@ -1,5 +1,7 @@
 ## 😄 Hi, I'm 卡比卡比
 
+> `Want to be a better person`
+> `Want to do great things`
 > `coder` `reader` `thinker` 
 
 - :musical_score: I'm Learning English through SLA now, and I want to be multi-language learner.
