@@ -1,8 +1,6 @@
 ## 😄 Hi, I'm 卡比卡比
 
-> `Want to be a better person`
-> `Want to do great things`
-> `coder` `reader` `thinker` 
+`Want to be a better person and want to do great things`
 
 - :musical_score: I'm Learning English through SLA now, and I want to be multi-language learner.
 - :crown: I'm working in Bytedance RDS, and had the internship in Tencent, Microsoft, Douyin.
