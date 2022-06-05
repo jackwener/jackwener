@@ -4,7 +4,7 @@
 
 - :musical_score: I'm Learning English through SLA now, and I want to be multi-language learner.
 - :crown: I'm working in selectDB. I worked in Bytedance RDS, Nebula-Graph, and had the internship in Tencent, Microsoft, Douyin.
-- :beer: I'm interested in Database optimizer, I'm learning `Query` and `Compute`.
+- :beer: Focus on Database optimizer.
 - :fish_cake: Language used: Golang, Java, Python, C++, Rust.
 - :rice_cracker: Love to participate Open Source
 - :shaved_ice: I enjoy reading books of psychology, literature, sociology, history and ...
