@@ -24,6 +24,7 @@
 
 ## Hobby Projects
 
+- [opencli](https://github.com/jackwener/opencli): OpenCLI — AI-powered CLI for the web.
 - [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
 - [bilibili-cli](https://github.com/jackwener/bilibili-cli): Bilibili in terminal.
 - [twitter-cli](https://github.com/jackwener/twitter-cli): X/Twitter in terminal.
@@ -31,3 +32,5 @@
 - [AI-digest](https://github.com/jackwener/AI-digest): Daily AI coding digest.
 - [bilibili-summary](https://github.com/jackwener/bilibili-summary): AI Bilibili video summaries.
 - [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
+- [wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): Convert WeChat articles to Markdown.
+- [open-antigravity](https://github.com/jackwener/open-antigravity): open-antigravity.
