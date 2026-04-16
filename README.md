@@ -14,7 +14,7 @@
 ## About Me
 
 - I am a PMC member & Committer of [Apache Arrow](https://github.com/apache/arrow), [Apache DataFusion](https://github.com/apache/datafusion), and [Apache Doris](https://github.com/apache/doris).
-- I worked at MegaETH, SelectDB, ByteDance RDS, and NebulaGraph; and interned at Tencent, Microsoft, and Douyin.
+- I worked at MegaETH, SelectDB, ByteDance RDS; and interned at Tencent, Microsoft, and Douyin.
 - I focus on AI, blockchain systems, and database optimizer/query engine.
 
 ## Tech Stack
