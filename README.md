@@ -1,7 +1,14 @@
 <h1 align="center">Hi, I'm 卡比卡比 👋</h1>
 
 <p align="center">
-  Engineer focused on AI, blockchain systems, and database query engines.
+  Database query-engine & AI systems engineer.
+</p>
+
+<p align="center">
+  <b>Apache PMC member & Committer</b> —
+  <a href="https://github.com/apache/arrow">Arrow</a> ·
+  <a href="https://github.com/apache/datafusion">DataFusion</a> ·
+  <a href="https://github.com/apache/doris">Doris</a>
 </p>
 
 <p align="center">
@@ -13,25 +20,36 @@
 
 ## About Me
 
-- I am a PMC member & Committer of [Apache Arrow](https://github.com/apache/arrow), [Apache DataFusion](https://github.com/apache/datafusion), and [Apache Doris](https://github.com/apache/doris).
-- I worked at MegaETH, SelectDB, ByteDance RDS; and interned at Tencent, Microsoft, and Douyin.
-- I focus on AI, blockchain systems, and database optimizer/query engine.
+- 🛠️ I build database optimizers / query engines, AI systems, and blockchain infra.
+- 🌱 PMC member & Committer of Apache Arrow, Apache DataFusion, and Apache Doris.
+- 💼 Previously at MegaETH, SelectDB, and ByteDance RDS; interned at Tencent, Microsoft, and Douyin.
 
 ## Tech Stack
 
-- Languages: Java, Rust, Golang, Python, C++
-- Interests: AI, blockchain systems, database optimizer, query engine
+![Rust](https://img.shields.io/badge/Rust-2b2b2b?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2b2b2b?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2b2b2b?style=flat-square&logo=cplusplus&logoColor=white)
 
 ## Hobby Projects
 
+### 🤖 AI & Agents
+
 - [maka-agent](https://github.com/maka-agent/maka-agent): Maka — local-first AI desktop assistant.
+- [open-antigravity](https://github.com/jackwener/open-antigravity): Expose Antigravity as an OpenAI / Anthropic-compatible API.
+- [AI-digest](https://github.com/jackwener/AI-digest): Collect & analyze your AI coding assistant usage.
+- [bilibili-summary](https://github.com/jackwener/bilibili-summary): AI Bilibili video summaries.
+
+### ⌨️ Terminal / CLI
+
 - [opencli](https://github.com/jackwener/opencli): OpenCLI — AI-powered CLI for the web.
-- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
 - [bilibili-cli](https://github.com/jackwener/bilibili-cli): Bilibili in terminal.
 - [twitter-cli](https://github.com/jackwener/twitter-cli): X/Twitter in terminal.
 - [xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli): Xiaohongshu in terminal.
-- [AI-digest](https://github.com/jackwener/AI-digest): Daily AI coding digest.
-- [bilibili-summary](https://github.com/jackwener/bilibili-summary): AI Bilibili video summaries.
+
+### 🧩 Clients & Utilities
+
 - [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
 - [wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): Convert WeChat articles to Markdown.
-- [open-antigravity](https://github.com/jackwener/open-antigravity): open-antigravity.
+- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
