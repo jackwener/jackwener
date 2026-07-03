@@ -24,6 +24,7 @@
 
 ## Hobby Projects
 
+- [maka-agent](https://github.com/maka-agent/maka-agent): Maka — local-first AI desktop assistant.
 - [opencli](https://github.com/jackwener/opencli): OpenCLI — AI-powered CLI for the web.
 - [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
 - [bilibili-cli](https://github.com/jackwener/bilibili-cli): Bilibili in terminal.
