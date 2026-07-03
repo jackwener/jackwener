@@ -39,8 +39,6 @@
 - [maka-agent](https://github.com/maka-agent/maka-agent): Maka — local-first AI desktop assistant.
 - [open-antigravity](https://github.com/jackwener/open-antigravity): Expose Antigravity as an OpenAI / Anthropic-compatible API.
 - [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
-- [AI-digest](https://github.com/jackwener/AI-digest): Collect & analyze your AI coding assistant usage.
-- [bilibili-summary](https://github.com/jackwener/bilibili-summary): AI Bilibili video summaries.
 - [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
 
 ### CLI & Tools
