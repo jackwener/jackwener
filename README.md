@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 卡比卡比 👋</h1>
+<h1 align="center">Hi, I'm 卡比卡比</h1>
 
 <p align="center">
   Database query-engine & AI systems engineer.
@@ -20,9 +20,9 @@
 
 ## About Me
 
-- 🛠️ I build database optimizers / query engines, AI systems, and blockchain infra.
-- 🌱 PMC member & Committer of Apache Arrow, Apache DataFusion, and Apache Doris.
-- 💼 Previously at MegaETH, SelectDB, and ByteDance RDS; interned at Tencent, Microsoft, and Douyin.
+- I build database optimizers / query engines, AI systems, and blockchain infra.
+- PMC member & Committer of Apache Arrow, Apache DataFusion, and Apache Doris.
+- Previously at MegaETH, SelectDB, and ByteDance RDS; interned at Tencent, Microsoft, and Douyin.
 
 ## Tech Stack
 
@@ -34,22 +34,19 @@
 
 ## Hobby Projects
 
-### 🤖 AI & Agents
+### AI & Agents
 
 - [maka-agent](https://github.com/maka-agent/maka-agent): Maka — local-first AI desktop assistant.
 - [open-antigravity](https://github.com/jackwener/open-antigravity): Expose Antigravity as an OpenAI / Anthropic-compatible API.
+- [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
 - [AI-digest](https://github.com/jackwener/AI-digest): Collect & analyze your AI coding assistant usage.
 - [bilibili-summary](https://github.com/jackwener/bilibili-summary): AI Bilibili video summaries.
+- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
 
-### ⌨️ Terminal / CLI
+### CLI & Tools
 
 - [opencli](https://github.com/jackwener/opencli): OpenCLI — AI-powered CLI for the web.
 - [bilibili-cli](https://github.com/jackwener/bilibili-cli): Bilibili in terminal.
 - [twitter-cli](https://github.com/jackwener/twitter-cli): X/Twitter in terminal.
 - [xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli): Xiaohongshu in terminal.
-
-### 🧩 Clients & Utilities
-
-- [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
 - [wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): Convert WeChat articles to Markdown.
-- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
