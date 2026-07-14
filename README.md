@@ -1,14 +1,7 @@
 <h1 align="center">Hi, I'm 卡比卡比</h1>
 
 <p align="center">
-  Database query-engine & AI systems engineer.
-</p>
-
-<p align="center">
-  <b>Apache PMC member & Committer</b> —
-  <a href="https://github.com/apache/arrow">Arrow</a> ·
-  <a href="https://github.com/apache/datafusion">DataFusion</a> ·
-  <a href="https://github.com/apache/doris">Doris</a>
+  AI systems engineer & Database query-engine .
 </p>
 
 <p align="center">
