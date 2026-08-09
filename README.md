@@ -27,17 +27,6 @@
 
 ## Hobby Projects
 
-### AI & Agents
-
 - [maka-agent](https://github.com/maka-agent/maka-agent): Maka — local-first AI desktop assistant.
-- [open-antigravity](https://github.com/jackwener/open-antigravity): Expose Antigravity as an OpenAI / Anthropic-compatible API.
-- [opencode-ios](https://github.com/jackwener/opencode-ios): Native OpenCode iOS client.
-- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
-
-### CLI & Tools
-
 - [opencli](https://github.com/jackwener/opencli): OpenCLI — AI-powered CLI for the web.
-- [bilibili-cli](https://github.com/jackwener/bilibili-cli): Bilibili in terminal.
-- [twitter-cli](https://github.com/jackwener/twitter-cli): X/Twitter in terminal.
-- [xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli): Xiaohongshu in terminal.
-- [wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): Convert WeChat articles to Markdown.
+- [crabclaw](https://github.com/jackwener/crabclaw): Rust + OpenClaw experiments.
