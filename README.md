@@ -13,7 +13,7 @@
 
 ## About Me
 
-- I build database optimizers / query engines, AI systems.
+- AI systems builder & pre database engineer, 
 - PMC member & Committer of Apache Arrow, Apache DataFusion, and Apache Doris.
 - Previously at MegaETH, SelectDB, and ByteDance RDS; interned at Tencent, Microsoft, and Douyin.
 
